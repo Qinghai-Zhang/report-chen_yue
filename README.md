@@ -1,1 +1,1 @@
-main.tex为2月份报告的latex源码
+main.tex为2月份报告的latex源码，所有的png文件都是必须的
